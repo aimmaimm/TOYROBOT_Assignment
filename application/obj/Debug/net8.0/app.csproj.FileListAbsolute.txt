@@ -1,0 +1,14 @@
+/Users/aaimmaimm/Desktop/assignment/app/bin/Debug/net8.0/app
+/Users/aaimmaimm/Desktop/assignment/app/bin/Debug/net8.0/app.deps.json
+/Users/aaimmaimm/Desktop/assignment/app/bin/Debug/net8.0/app.runtimeconfig.json
+/Users/aaimmaimm/Desktop/assignment/app/bin/Debug/net8.0/app.dll
+/Users/aaimmaimm/Desktop/assignment/app/bin/Debug/net8.0/app.pdb
+/Users/aaimmaimm/Desktop/assignment/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaimmaimm/Desktop/assignment/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/Users/aaimmaimm/Desktop/assignment/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/Users/aaimmaimm/Desktop/assignment/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/Users/aaimmaimm/Desktop/assignment/app/obj/Debug/net8.0/app.dll
+/Users/aaimmaimm/Desktop/assignment/app/obj/Debug/net8.0/refint/app.dll
+/Users/aaimmaimm/Desktop/assignment/app/obj/Debug/net8.0/app.pdb
+/Users/aaimmaimm/Desktop/assignment/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/Users/aaimmaimm/Desktop/assignment/app/obj/Debug/net8.0/ref/app.dll

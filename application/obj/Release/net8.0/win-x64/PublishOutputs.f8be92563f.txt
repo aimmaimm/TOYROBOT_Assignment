@@ -1,0 +1,5 @@
+/Users/aaimmaimm/Desktop/assignment/app/bin/Release/net8.0/win-x64/publish/app.exe
+/Users/aaimmaimm/Desktop/assignment/app/bin/Release/net8.0/win-x64/publish/app.dll
+/Users/aaimmaimm/Desktop/assignment/app/bin/Release/net8.0/win-x64/publish/app.deps.json
+/Users/aaimmaimm/Desktop/assignment/app/bin/Release/net8.0/win-x64/publish/app.runtimeconfig.json
+/Users/aaimmaimm/Desktop/assignment/app/bin/Release/net8.0/win-x64/publish/app.pdb
